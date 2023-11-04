@@ -1,0 +1,2 @@
+# ComiObfuscator
+Python Obfuscator
